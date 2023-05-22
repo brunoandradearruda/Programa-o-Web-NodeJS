@@ -7,4 +7,4 @@ Para execução da API, foram instalados o <b>framework EXPRESS</b>, Banco de Da
 
 <b>npm install express --save</b> <br>
 <b>npm install pg --save</b> <br>
-<b>npm install body-parser</b>
+<b>npm install body-parser --save</b>
